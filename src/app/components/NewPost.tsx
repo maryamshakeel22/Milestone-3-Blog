@@ -41,7 +41,7 @@ const NewPost = () => {
       date: 'Nov 21, 2024',
       excerpt:
         'Quickly calculate your age with this simple tool. Enter your birthdate, and the website will calculate your age in years, months, days, hours, and even seconds! Built with HTML, CSS, and JavaScript for an interactive experience⏳.',
-      image: '/Age calculator.png',
+      image: '/Age calculator.PNG',
     },
     {
       id: '6',
@@ -73,7 +73,7 @@ const NewPost = () => {
       date: 'Nov 22, 2024',
       excerpt:
         'Explore the exciting updates in Next.js 15, including new features, performance improvements, and optimizations. This blog covers everything you need to know about the latest version of Next.js to keep your projects cutting-edge and efficient!',
-      image: '/nextjs blog.png',
+      image: '/nextjs blog.PNG',
     },
   ];
 
