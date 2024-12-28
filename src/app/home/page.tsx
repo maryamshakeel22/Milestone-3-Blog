@@ -12,7 +12,7 @@ const Hero = () => {
         >
           <div className="container h-full flex items-center justify-center sm:justify-center px-4">
             {/* Content container, adjusts on small screens */}
-            <div className="relative z-10 max-w-[543px] bg-[#FFF9F3] p-8 sm:right-[40px] md:right-[40px]">
+            <div className="relative z-10 max-w-[543px] bg-[#FFF9F3] p-8 sm:right-[40px] md:right-[60px]">
               <p className="text-sm uppercase tracking-wide mb-2">My Blog</p>
               <h1 className="text-3xl sm:text-4xl font-bold text-[#B88E2F] mb-4">
               Showcasing Creativity 
